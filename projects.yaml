@@ -17,5 +17,451 @@ projects:
   #   github_id: ml-tooling/best-of-ml-python
   #   labels: ["python"]
   #   category: "data-engineering"
-  - name: TensorFlow
-    github_id: tensorflow/tensorflow
+  - name: ES
+    github_id: enajx/ES
+  - name: HebbianMetaLearning
+    github_id: enajx/HebbianMetaLearning
+  - name: innovation-engine
+    github_id: Evolving-AI-Lab/innovation-engine
+  - name: tpot
+    github_id: EpistasisLab/tpot
+  - name: evogym-design-tool
+    github_id: EvolutionGym/evogym-design-tool
+  - name: self-organising-systems
+    github_id: google-research/self-organising-systems
+  - name: Pearl
+    github_id: 09tangriro/Pearl
+  - name: PCGNN
+    github_id: Michael-Beukman/PCGNN
+  - name: metaheuristics
+    github_id: thieu1995/metaheuristics
+  - name: swarmopt
+    github_id: SioKCronin/swarmopt
+  - name: DeepSwarm
+    github_id: Pattio/DeepSwarm
+  - name: algforopt-notebooks
+    github_id: algorithmsbooks/algforopt-notebooks
+  - name: population-based-training
+    github_id: angusfung/population-based-training
+  - name: biosim4
+    github_id: davidrmiller/biosim4
+  - name: mealpy
+    github_id: thieu1995/mealpy
+  - name: Python_Benchmark_Test_Optimization_Function_Single_Objective
+    github_id: AxelThevenot/Python_Benchmark_Test_Optimization_Function_Single_Objective
+  - name: malmo
+    github_id: microsoft/malmo
+  - name: evolvingrl
+    github_id: jcoreyes/evolvingrl
+  - name: multi-agent-emergence-environments
+    github_id: openai/multi-agent-emergence-environments
+  - name: Evocraft-py
+    github_id: real-itu/Evocraft-py
+  - name: multiagent-competition
+    github_id: openai/multiagent-competition
+  - name: evolution-strategies-starter
+    github_id: openai/evolution-strategies-starter
+  - name: NiaPy
+    github_id: NiaOrg/NiaPy
+  - name: cmoea
+    github_id: Evolving-AI-Lab/cmoea
+  - name: Genetic_Algorithm
+    github_id: AxelThevenot/Genetic_Algorithm
+  - name: evojax
+    github_id: google/evojax
+  - name: estool
+    github_id: hardmaru/estool
+  - name: brain-tokyo-workshop
+    github_id: google/brain-tokyo-workshop
+  - name: morphogenesis-resources
+    github_id: jasonwebb/morphogenesis-resources
+  - name: evosax
+    github_id: RobertTLange/evosax
+  - name: QDax
+    github_id: adaptive-intelligent-robotics/QDax
+  - name: triangula
+    github_id: rh12503/triangula
+  - name: pyswarms
+    github_id: ljvmiranda921/pyswarms
+  - name: qbso-fs
+    github_id: amineremache/qbso-fs
+  - name: EPG
+    github_id: openai/EPG
+  - name: evogym
+    github_id: EvolutionGym/evogym
+  - name: Bongard-LOGO
+    github_id: NVlabs/Bongard-LOGO
+  - name: HyperNCA
+    github_id: enajx/HyperNCA
+  - name: controllable-ncas
+    github_id: shyamsn97/controllable-ncas
+  - name: pba
+    github_id: arcelien/pba
+  - name: hivemind
+    github_id: learning-at-home/hivemind
+  - name: differentiable-plasticity
+    github_id: uber-research/differentiable-plasticity
+  - name: deep-neuroevolution
+    github_id: uber-research/deep-neuroevolution
+  - name: MetaMetaLearning
+    github_id: ThomasMiconi/MetaMetaLearning
+  - name: Gradient-Free-Optimizers
+    github_id: SimonBlanke/Gradient-Free-Optimizers
+  - name: theseus
+    github_id: facebookresearch/theseus
+  - name: CleverAlgorithms
+    github_id: clever-algorithms/CleverAlgorithms
+  - name: evotorch
+    github_id: nnaisense/evotorch
+  - name: alphastar
+    github_id: google-deepmind/alphastar
+  - name: FeatureSelectionGA
+    github_id: kaushalshetty/FeatureSelectionGA
+  - name: awesome-neural-geometry
+    github_id: neurreps/awesome-neural-geometry
+  - name: project-origin
+    github_id: kourgeorge/project-origin
+  - name: swarmlib
+    github_id: HaaLeo/swarmlib
+  - name: fast-cma-es
+    github_id: dietmarwo/fast-cma-es
+  - name: Evolutionary-Reinforcement-Learning
+    github_id: ShawK91/Evolutionary-Reinforcement-Learning
+  - name: sferes2
+    github_id: sferes2/sferes2
+  - name: esac
+    github_id: karush17/esac
+  - name: OpenELM
+    github_id: CarperAI/OpenELM
+  - name: emergent_communication_at_scale
+    github_id: google-deepmind/emergent_communication_at_scale
+  - name: minerl
+    github_id: minerllabs/minerl
+  - name: CMA-ES_with_Margin
+    github_id: EvoConJP/CMA-ES_with_Margin
+  - name: pycma
+    github_id: CMA-ES/pycma
+  - name: opytimizer
+    github_id: gugarosa/opytimizer
+  - name: pyribs
+    github_id: icaros-usc/pyribs
+  - name: propulate
+    github_id: Helmholtz-AI-Energy/propulate
+  - name: EvoloPy
+    github_id: 7ossam81/EvoloPy
+  - name: evoplex
+    github_id: evoplex/evoplex
+  - name: evox
+    github_id: EMI-Group/evox
+  - name: EC-Bestiary
+    github_id: fcampelo/EC-Bestiary
+  - name: cellularAutomata
+    github_id: bollu/cellularAutomata
+  - name: Lenia
+    github_id: Chakazul/Lenia
+  - name: how-to-autorl
+    github_id: facebookresearch/how-to-autorl
+  - name: deap
+    github_id: DEAP/deap
+  - name: pagmo2
+    github_id: esa/pagmo2
+  - name: Platypus
+    github_id: Project-Platypus/Platypus
+  - name: lion-pytorch
+    github_id: lucidrains/lion-pytorch
+  - name: pygmo2
+    github_id: esa/pygmo2
+  - name: karoo_gp
+    github_id: kstaats/karoo_gp
+  - name: spotlight_hardware_designs
+    github_id: facebookresearch/spotlight_hardware_designs
+  - name: topy
+    github_id: williamhunter/topy
+  - name: eai-vc
+    github_id: facebookresearch/eai-vc
+  - name: geatpy
+    github_id: geatpy-dev/geatpy
+  - name: GeneticAlgorithmPython
+    github_id: ahmedfgad/GeneticAlgorithmPython
+  - name: vizier
+    github_id: google/vizier
+  - name: self-parking-car-evolution
+    github_id: trekhleb/self-parking-car-evolution
+  - name: FEDOT
+    github_id: aimclub/FEDOT
+  - name: sparse-evolutionary-artificial-neural-networks
+    github_id: dcmocanu/sparse-evolutionary-artificial-neural-networks
+  - name: Sklearn-genetic-opt
+    github_id: rodrigo-arenas/Sklearn-genetic-opt
+  - name: Primordia
+    github_id: Chakazul/Primordia
+  - name: cellpylib
+    github_id: lantunes/cellpylib
+  - name: NEAT_RL
+    github_id: rwickman/NEAT_RL
+  - name: biteopt
+    github_id: avaneev/biteopt
+  - name: eaopt
+    github_id: MaxHalford/eaopt
+  - name: cmaes
+    github_id: CyberAgentAILab/cmaes
+  - name: GeneticAlgorithmForFeatureSelection
+    github_id: renatoosousa/GeneticAlgorithmForFeatureSelection
+  - name: agenthive
+    github_id: facebookresearch/agenthive
+  - name: Solid
+    github_id: 100/Solid
+  - name: Noise-Reuse-Evolution-Strategies
+    github_id: OscarcarLi/Noise-Reuse-Evolution-Strategies
+  - name: PAPA
+    github_id: SamsungSAILMontreal/PAPA
+  - name: DistributedEvolutionaryComputation
+    github_id: Evolutionary-Intelligence/DistributedEvolutionaryComputation
+  - name: james
+    github_id: hdbeukel/james
+  - name: easea
+    github_id: EASEA/easea
+  - name: jMetalPy
+    github_id: jMetal/jMetalPy
+  - name: automated-interpretability
+    github_id: openai/automated-interpretability
+  - name: pypop
+    github_id: Evolutionary-Intelligence/pypop
+  - name: gomea
+    github_id: CWI-EvolutionaryIntelligence/gomea
+  - name: mindspore
+    github_id: mindspore-ai/mindspore
+  - name: Bio-ANN
+    github_id: NeurAI-Lab/Bio-ANN
+  - name: design-bench
+    github_id: brandontrabucco/design-bench
+  - name: LearningToLearnCogTasks
+    github_id: ThomasMiconi/LearningToLearnCogTasks
+  - name: es-lottery
+    github_id: RobertTLange/es-lottery
+  - name: NSGA-II
+    github_id: baopng/NSGA-II
+  - name: HEBO
+    github_id: huawei-noah/HEBO
+  - name: lux-open
+    github_id: hanmochen/lux-open
+  - name: neuroevobench
+    github_id: neuroevobench/neuroevobench
+  - name: brainflow
+    github_id: brainflow-dev/brainflow
+  - name: dreamerv3
+    github_id: danijar/dreamerv3
+  - name: ann-benchmarks
+    github_id: erikbern/ann-benchmarks
+  - name: curiousreplay
+    github_id: AutonomousAgentsLab/curiousreplay
+  - name: crafter
+    github_id: danijar/crafter
+  - name: mastering-urlb
+    github_id: mazpie/mastering-urlb
+  - name: choreographer
+    github_id: mazpie/choreographer
+  - name: opof
+    github_id: opoframework/opof
+  - name: awesome-genetic-programming
+    github_id: hengzhe-zhang/awesome-genetic-programming
+  - name: dpop7
+    github_id: Evolutionary-Intelligence/dpop7
+  - name: aevo
+    github_id: atomisticnet/aevo
+  - name: diversity_metrics
+    github_id: CarperAI/diversity_metrics
+  - name: poppy
+    github_id: instadeepai/poppy
+  - name: BPT-VLM
+    github_id: ECNU-ICALK/BPT-VLM
+  - name: loss-of-plasticity
+    github_id: shibhansh/loss-of-plasticity
+  - name: FireflyAlgorithm
+    github_id: firefly-cpp/FireflyAlgorithm
+  - name: scikit-opt
+    github_id: guofei9987/scikit-opt
+  - name: awesome-open-ended
+    github_id: jennyzzt/awesome-open-ended
+  - name: Hands-On-Genetic-Algorithms-with-Python
+    github_id: PacktPublishing/Hands-On-Genetic-Algorithms-with-Python
+  - name: Gentopia
+    github_id: Gentopia-AI/Gentopia
+  - name: DeepACO
+    github_id: henry-yeh/DeepACO
+  - name: ReConcile
+    github_id: dinobby/ReConcile
+  - name: symbiants
+    github_id: MeoMix/symbiants
+  - name: brainmagick
+    github_id: facebookresearch/brainmagick
+  - name: humpday
+    github_id: microprediction/humpday
+  - name: Evolved-Model-Agnostic-Loss
+    github_id: Decadz/Evolved-Model-Agnostic-Loss
+  - name: sotopia
+    github_id: sotopia-lab/sotopia
+  - name: evoxbench
+    github_id: EMI-Group/evoxbench
+  - name: alife2023
+    github_id: evoising/alife2023
+  - name: camel
+    github_id: camel-ai/camel
+  - name: DEHB
+    github_id: automl/DEHB
+  - name: hebo_on_bbob
+    github_id: dimitri-rusin/hebo_on_bbob
+  - name: sklearn-deap
+    github_id: rsteca/sklearn-deap
+  - name: warehouse_env_gen_nca_public
+    github_id: lunjohnzhang/warehouse_env_gen_nca_public
+  - name: minimax
+    github_id: facebookresearch/minimax
+  - name: NIR
+    github_id: neuromorphs/NIR
+  - name: concordia
+    github_id: google-deepmind/concordia
+  - name: gplearn
+    github_id: trevorstephens/gplearn
+  - name: GEFEST
+    github_id: aimclub/GEFEST
+  - name: timeflux
+    github_id: timeflux/timeflux
+  - name: Data_Driven_Symbolic_Regression
+    github_id: sayin/Data_Driven_Symbolic_Regression
+  - name: arena
+    github_id: diambra/arena
+  - name: EvoPrompt
+    github_id: beeevita/EvoPrompt
+  - name: loss-landscape-anim
+    github_id: logancyang/loss-landscape-anim
+  - name: fractal
+    github_id: Sohl-Dickstein/fractal
+  - name: groove
+    github_id: EmptyJackson/groove
+  - name: Craftax
+    github_id: MichaelTMatthews/Craftax
+  - name: Machine-Mindset
+    github_id: PKU-YuanGroup/Machine-Mindset
+  - name: Biological-Evolution
+    github_id: Evolutionary-Intelligence/Biological-Evolution
+  - name: evo
+    github_id: evo-design/evo
+  - name: Hierarchy
+    github_id: Evolutionary-Intelligence/Hierarchy
+  - name: xland-minigrid
+    github_id: corl-team/xland-minigrid
+  - name: ngc-learn
+    github_id: NACLab/ngc-learn
+  - name: ELM
+    github_id: OpenDriveLab/ELM
+  - name: MacGyver
+    github_id: allenai/MacGyver
+  - name: bgpbt
+    github_id: xingchenwan/bgpbt
+  - name: procgen_autorl
+    github_id: jparkerholder/procgen_autorl
+  - name: NiaAML-GUI
+    github_id: firefly-cpp/NiaAML-GUI
+  - name: NiaAML
+    github_id: firefly-cpp/NiaAML
+  - name: ngc-museum
+    github_id: NACLab/ngc-museum
+  - name: EC-A-Modern-Perspective
+    github_id: Evolutionary-Intelligence/EC-A-Modern-Perspective
+  - name: ChatDev
+    github_id: OpenBMB/ChatDev
+  - name: quality-diversity.github.io
+    github_id: quality-diversity/quality-diversity.github.io
+  - name: pymoo
+    github_id: anyoptimization/pymoo
+  - name: SwarmRL
+    github_id: SwarmRL/SwarmRL
+  - name: generative-ui-playbook
+    github_id: gordonbrander/generative-ui-playbook
+  - name: ck
+    github_id: mlcommons/ck
+  - name: poprank
+    github_id: poprl/poprank
+  - name: hypersweeper
+    github_id: automl/hypersweeper
+  - name: synthpop
+    github_id: joelnmdyer/synthpop
+  - name: LLM4Opt
+    github_id: FeiLiu36/LLM4Opt
+  - name: EoH
+    github_id: FeiLiu36/EoH
+  - name: PHUDGE
+    github_id: deshwalmahesh/PHUDGE
+  - name: platonic-rep
+    github_id: minyoungg/platonic-rep
+  - name: ai-car-preference-learning
+    github_id: llama887/ai-car-preference-learning
+  - name: ai-car-simulation
+    github_id: NeuralNine/ai-car-simulation
+  - name: mindcraft
+    github_id: kolbytn/mindcraft
+  - name: MAZero
+    github_id: liuqh16/MAZero
+  - name: ControllingBehavioralDiversity
+    github_id: proroklab/ControllingBehavioralDiversity
+  - name: agentscope
+    github_id: modelscope/agentscope
+  - name: lwm
+    github_id: princeton-nlp/lwm
+  - name: nengo
+    github_id: nengo/nengo
+  - name: promptsearch
+    github_id: lukas/promptsearch
+  - name: KAN-EA
+    github_id: hhyqhh/KAN-EA
+  - name: optim
+    github_id: kthohr/optim
+  - name: QDAC
+    github_id: adaptive-intelligent-robotics/QDAC
+  - name: moe-routing
+    github_id: ilyalasy/moe-routing
+  - name: HarmonyDream
+    github_id: thuml/HarmonyDream
+  - name: AgentGym
+    github_id: WooooDyy/AgentGym
+  - name: Leniabreeder
+    github_id: maxencefaldor/Leniabreeder
+  - name: intelligent-go-explore
+    github_id: conglu1997/intelligent-go-explore
+  - name: Pruner-Zero
+    github_id: pprp/Pruner-Zero
+  - name: Evaluate-n-Model-Social-Intelligence
+    github_id: bigai-ai/Evaluate-n-Model-Social-Intelligence
+  - name: cultural-accumulation
+    github_id: FLAIROx/cultural-accumulation
+  - name: OmniTokenizer
+    github_id: FoundationVision/OmniTokenizer
+  - name: Awesome-Evolutionary-Reinforcement-Learning
+    github_id: yeshenpy/Awesome-Evolutionary-Reinforcement-Learning
+  - name: evoagent
+    github_id: siyuyuan/evoagent
+  - name: LLaMEA
+    github_id: nikivanstein/LLaMEA
+  - name: model-evolution
+    github_id: duguodong7/model-evolution
+  - name: ENVISIONS
+    github_id: xufangzhi/ENVISIONS
+  - name: SPPO
+    github_id: uclaml/SPPO
+  - name: cambrian
+    github_id: cambrian-mllm/cambrian
+  - name: DenseFusion
+    github_id: baaivision/DenseFusion
+  - name: PlatEMO
+    github_id: BIMK/PlatEMO
+  - name: craftium
+    github_id: mikelma/craftium
+  - name: EvoSOPS
+    github_id: DaymudeLab/EvoSOPS
+  - name: alife_social
+    github_id: ALife-Newsletter/alife_social
+  - name: Odyssey
+    github_id: zju-vipa/Odyssey
+  - name: optunahub
+    github_id: optuna/optunahub
